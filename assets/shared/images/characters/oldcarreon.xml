@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daniel.png">
+<SubTexture name="daniel down0000" x="575" y="626" width="300" height="194" frameX="-216" frameY="-432" frameWidth="720" frameHeight="720" />
+<SubTexture name="daniel idle0000" x="300" y="0" width="300" height="481" frameX="-216" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="daniel left0000" x="600" y="0" width="563" height="481" frameX="-142" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="daniel right0000" x="0" y="626" width="575" height="481" frameX="-18" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="daniel up0000" x="0" y="0" width="300" height="626" frameX="-216" frameY="0" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
